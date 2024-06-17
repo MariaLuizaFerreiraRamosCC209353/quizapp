@@ -146,10 +146,24 @@ main {
         margin-block: 81px;
     }
 
-    .tema img {
-
+    .tema {
+        gap: 16px;
     }
-    
+
+    .tema img {
+        width: 24px;
+    }
+
+    .tema_button {
+        width: 48px;
+        height: 28px;
+    }
+
+    .tema_button div {
+        width: 20px;
+        height: 20px;
+    }
+
     main {
         display: flex;
         max-width: 1160px;
