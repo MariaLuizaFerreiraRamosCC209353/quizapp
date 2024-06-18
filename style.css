@@ -27,7 +27,7 @@ body.escuro {
     --bg-mobile: url(./assets/images/pattern-background-mobile-dark.svg);
     --bg-desktop: url(./assets/images/pattern-background-desktop-dark.svg);
     --primary-text-color: #fff;
-    --segundary-text-color: #abc1e1;
+    --secundary-text-color: #abc1e1;
     --button-bg: #3b4d66;
     --shadow: 0px 16px 40px 0px rgba(49, 62, 81, 0.14);
 }
@@ -164,12 +164,12 @@ main {
         width: 24px;
     }
 
-    .tema_button {
+    .tema button {
         width: 48px;
         height: 28px;
     }
 
-    .tema_button div {
+    .tema button div {
         width: 20px;
         height: 20px;
     }
