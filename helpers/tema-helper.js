@@ -12,7 +12,7 @@ export function trocarTema(tema, body, botaoTema) {
     } else {
         body.classList.remove("escuro")
             localStorage.setItem("tema", "claro")
-            botaoTema.style.justifyContent = "flex-start"
+            botaoTema.style.justifyContent = "flex-end"
     }
 }
 
